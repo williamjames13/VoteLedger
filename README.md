@@ -1,5 +1,8 @@
 # VoteLedger
 
+<img width="1920" height="1034" alt="image" src="https://github.com/user-attachments/assets/671810d2-ed08-49b7-ac88-eb7ed53705f0" />
+https://stellar.expert/explorer/testnet/contract/CCKS4AKR7R62KUKFBAMN4TBKCBGJ3LD763NWMELZTZ3C4VYFF2UAZG2Q
+
 A blockchain-based anonymous voting system for schools using Stellar Soroban.
 
 ---
